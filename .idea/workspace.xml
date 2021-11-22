@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b86012-ec5e-4510-af85-9a94264e26a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ped_detection_Research/Arch_Images/RealTime Architecture.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Output/GUI_File_Dialog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Output/GUI_Kivy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Output/Inputting_existing_vd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Output/RealTime_sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Ped_Detect_SSDLite/Ped_BBox_Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Ped_Detect_SSDLite/Results/model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Ped_Detect_SSDLite/Results/p_mod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/Ped_Detect_SSDLite/frozen_inference_graph.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/assets/ADAS_Intro.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/assets/Android_Auto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/assets/AutoCar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/assets/Ped_Detected-speech.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealTime PedestrianDetectionApp/requirement.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

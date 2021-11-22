@@ -4,14 +4,14 @@
 
 * <b>User Interface of Pedestrian Detection App</b>
 ---
-![](RealTime PedestrianDetectionApp/Output/GUI_Kivy.png)
+![](RealTime_PedestrianDetectionApp/Output/GUI_Kivy.png)
 
 
-![](RealTime PedestrianDetectionApp\Output\GUI_File_Dialog.png)
+![](RealTime_PedestrianDetectionApp\Output\GUI_File_Dialog.png)
 
 * <b>Real Time Detection using GUI</b>
 
-![](RealTime PedestrianDetectionApp/Output/RealTime_sample.png)
+![](RealTime_PedestrianDetectionApp/Output/RealTime_sample.png)
 
 * <b>Inputting local Video File(.mp4) using GUI</b>
 
@@ -25,7 +25,7 @@
 
 * <b>Real Time Pedestrian detection: </b>
 ---
-![](Ped_detection_Research/Arch_Images/RealTime Architecture.png)
+![](Ped_detection_Research/Arch_Images/RealTime_Architecture.png)
 
 
 
