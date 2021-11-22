@@ -15,7 +15,7 @@
 
 * <b>Inputting local Video File(.mp4) using GUI</b>
 
-![](RealTime PedestrianDetectionApp/Output/Inputting_existing_vd.png)
+![](RealTime_PedestrianDetectionApp/Output/Inputting_existing_vd.png)
 
 
 * <b>Architecture of the Pedestrian Detection System (Training Model):</b>
