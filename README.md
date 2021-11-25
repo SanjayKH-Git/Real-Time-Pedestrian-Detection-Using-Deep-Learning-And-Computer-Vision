@@ -28,5 +28,6 @@
 ![](Ped_detection_Research/Arch_Images/RealTime_Architecture.png)
 
 
+* For more details refer PPT_About_Project
 
    
